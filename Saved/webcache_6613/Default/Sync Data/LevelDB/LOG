@@ -1,2 +1,3 @@
-2026/09/18-12:03:07.513 5df0 Creating DB C:\Users\jayle\OneDrive\Desktop\Workshop 1\Idol\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/09/18-12:03:07.574 5df0 Reusing MANIFEST C:\Users\jayle\OneDrive\Desktop\Workshop 1\Idol\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/09/18-12:31:31.933 759c Reusing MANIFEST C:\Users\jayle\OneDrive\Desktop\Workshop 1\IdolGit\Idol\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/09/18-12:31:31.948 759c Recovering log #3
+2026/09/18-12:31:31.949 759c Reusing old log C:\Users\jayle\OneDrive\Desktop\Workshop 1\IdolGit\Idol\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 

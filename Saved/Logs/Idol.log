@@ -1855,3 +1855,10 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.18-16.39.50:534][  2]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
 [2026.09.18-16.39.50:534][  2]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
 [2026.09.18-16.39.50:801][  2]LogWebBrowser: Deleting browser for Url=https://editor.unrealengine.com/get-started-with-unreal-engine.
+[2026.09.18-16.39.53:671][  2]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.09.18-16.39.55:034][  2]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.09.18-16.39.55:034][  2]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE207CF49-407F-20FC-85B9-71BBED22134D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.7.4-51494982%2B%2B%2BUE5%2BRelease-5.7&UserID=8b95338f46b05f895537dcb2dd6bcd0d%7C51c9205839944b068551e2ec1e3d2106%7C729acc66-d0b0-4e2d-b462-307c8ebd7f59&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.09.18-16.39.55:634][  2]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.09.18-16.39.55:634][  2]RenderDocPlugin: plugin has been unloaded.
+[2026.09.18-16.39.55:634][  2]LogNFORDenoise: NFORDenoise function shutting down
+[2026.09.18-16.39.55:639][  2]LogPakFile: Destroying PakPlatformFile
